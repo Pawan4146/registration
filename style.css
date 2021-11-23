@@ -1,0 +1,28 @@
+h2
+{
+    color: Black;
+    background-color:blue;
+    font-size: 40px;
+    font-family: cursive;
+    text-align: center;
+}
+form 
+ {
+     color:darkblue;
+    text-align: left;
+    line-height:10px;
+    column-count:0;
+    line-height:2;
+    border-style:dotted; 
+}
+body{
+    background-color: lightgrey;
+}
+select{
+    background-color:burlywood;
+}
+input{
+    color: red;
+}
+    
+        
